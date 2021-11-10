@@ -1,0 +1,10 @@
+.nav-logo-text {
+    color: #00285F;
+}
+
+.main-menu {
+    display: flex;
+    font-size: 18px;
+    width: 291px;
+    justify-content: space-between;
+}
