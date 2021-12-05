@@ -1,0 +1,19 @@
+.btn-icon {
+    width: 174px;
+    height: 40px;
+    background-color: #00285F;
+}
+
+.btn-icon p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    padding-top: 6px;
+    align-items: center;
+    text-align: center;
+    left: 36px;
+    color: #FFFFFF;
+
+}
